@@ -1,0 +1,30 @@
+[33m3e3d147[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m login-done
+[33mef0ef76[m complete
+[33mdccd97b[m ride complete
+[33m3c9b2e5[m undo some changes
+[33m3620e5b[m Add start ride functionality and clean up console logs
+[33m4987438[m captain start accepting rides
+[33mc4bd0c4[m ride request showing to captain
+[33m17baa38[m socket integration done backend
+[33m46e94ce[m user ride crete done
+[33m3815b85[m merged
+[33mbe0a01f[m Merge branch 'sarthak'
+[33m507ac00[m captain ui made
+[33m54fdb1b[m ride creation done
+[33m351d778[m gitignore updated
+[33mf0a6f23[m User UI Completed
+[33me373ad1[m Home Page UI completed
+[33m5d16527[m test
+[33mddda1d1[m address suggestions and distance time added
+[33mda78ee4[m get-coordinates done
+[33m0e55032[m captain auth done
+[33mc301bf6[m user auth integration done
+[33mdd466f0[m Merge branch 'sarthak' with main
+[33m185caee[m login and signup page made
+[33mffbb407[m captain authentication done
+[33m543f29c[m register captain done
+[33m31bc932[m user authentication done
+[33m2f9f819[m user login done
+[33m33d17bd[m user registration done
+[33mf33d7e9[m mongo connected
+[33m7051173[m first commit
